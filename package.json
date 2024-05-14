@@ -18,5 +18,14 @@
   "bugs": {
     "url": "https://github.com/wesleyblackburn90/posts/issues"
   },
-  "homepage": "https://github.com/wesleyblackburn90/posts#readme"
+  "homepage": "https://github.com/wesleyblackburn90/posts#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
